@@ -1,2 +1,2 @@
-# the-void-ecommerce
+# The Void
 A simple e-commerce site written in Laravel. 
