@@ -16939,7 +16939,8 @@ nav li {
 }
 
 nav li a {
-  padding: 0 0.7em;
+  padding: 1em 0.7em;
+  line-height: 4em;
   font-weight: 600;
   color: #444444;
 }
@@ -16947,14 +16948,14 @@ nav li a {
 nav a.cart-button {
   font-weight: bold;
   position: relative;
-  margin-right: 2em;
 }
 
 nav a.cart-button .icon {
   position: relative;
-  top: 0.1em;
+  top: 0.15em;
   padding-left: 0.1em;
   font-size: 2em;
+  line-height: 1em;
 }
 
 nav a.cart-button .item-count {
@@ -16968,7 +16969,7 @@ nav a.cart-button .item-count {
   line-height: 1.4em;
   text-align: center;
   position: absolute;
-  top: -0.75em;
-  right: -0.75em;
+  top: 0.45em;
+  right: -0.7em;
 }
 
