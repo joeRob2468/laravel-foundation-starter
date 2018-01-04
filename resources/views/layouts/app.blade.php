@@ -12,7 +12,10 @@
   <title>@yield('title') - The Void</title>
 </head>
 <body>
-  @yield('content')
+  <div class="grid-container">
+    @include('partials.navigation')
+    @yield('content')
+  </div>
   
   <!-- Scripts -->
   <script src="/js/app.js"></script>

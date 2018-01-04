@@ -5,6 +5,7 @@
 @section('content')
 <div class="row">
   <div class="large-12 columns text-center">
-    <h1>Welcome!</h1>
+    <h1>THE VOID CALLS</h1>
   </div>
 </div>
+@endsection
