@@ -642,7 +642,7 @@ textarea {
 .grid-container {
   padding-right: 0.69444444rem;
   padding-left: 0.69444444rem;
-  max-width: 1400px;
+  max-width: 97.22222222rem;
   margin: 0 auto;
 }
 
@@ -3477,7 +3477,7 @@ a img {
 
 hr {
   clear: both;
-  max-width: 1400px;
+  max-width: 97.22222222rem;
   height: 0;
   margin: 1.38888889rem auto;
   border-top: 0;
@@ -7211,7 +7211,7 @@ html.is-reveal-open body {
 @media print, screen and (min-width: 40em) {
   .reveal {
     width: 600px;
-    max-width: 1400px;
+    max-width: 97.22222222rem;
   }
 }
 
@@ -7222,21 +7222,21 @@ html.is-reveal-open body {
 @media print, screen and (min-width: 40em) {
   .reveal.tiny {
     width: 30%;
-    max-width: 1400px;
+    max-width: 97.22222222rem;
   }
 }
 
 @media print, screen and (min-width: 40em) {
   .reveal.small {
     width: 50%;
-    max-width: 1400px;
+    max-width: 97.22222222rem;
   }
 }
 
 @media print, screen and (min-width: 40em) {
   .reveal.large {
     width: 90%;
-    max-width: 1400px;
+    max-width: 97.22222222rem;
   }
 }
 
@@ -9088,7 +9088,7 @@ textarea {
 .grid-container {
   padding-right: 0.69444444rem;
   padding-left: 0.69444444rem;
-  max-width: 1400px;
+  max-width: 97.22222222rem;
   margin: 0 auto;
 }
 
@@ -11923,7 +11923,7 @@ a img {
 
 hr {
   clear: both;
-  max-width: 1400px;
+  max-width: 97.22222222rem;
   height: 0;
   margin: 1.38888889rem auto;
   border-top: 0;
@@ -15657,7 +15657,7 @@ html.is-reveal-open body {
 @media print, screen and (min-width: 40em) {
   .reveal {
     width: 600px;
-    max-width: 1400px;
+    max-width: 97.22222222rem;
   }
 }
 
@@ -15668,21 +15668,21 @@ html.is-reveal-open body {
 @media print, screen and (min-width: 40em) {
   .reveal.tiny {
     width: 30%;
-    max-width: 1400px;
+    max-width: 97.22222222rem;
   }
 }
 
 @media print, screen and (min-width: 40em) {
   .reveal.small {
     width: 50%;
-    max-width: 1400px;
+    max-width: 97.22222222rem;
   }
 }
 
 @media print, screen and (min-width: 40em) {
   .reveal.large {
     width: 90%;
-    max-width: 1400px;
+    max-width: 97.22222222rem;
   }
 }
 

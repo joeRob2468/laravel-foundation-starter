@@ -1,7 +1,9 @@
+@import '~foundation-sites/scss/util/util';
+
 $body-background: #F0F0F0;
 $body-font-color: #444444;
 $global-font-size: 90%;
-$global-width: 1400px;
+$global-width: rem-calc(1400);
 
 //  Foundation for Sites Settings
 //  -----------------------------
@@ -65,7 +67,7 @@ $global-width: 1400px;
 //  55. Top Bar
 //  56. Xy Grid
 
-@import '~foundation-sites/scss/util/util';
+// @import '~foundation-sites/scss/util/util';
 
 // // 1. Global
 // // ---------
