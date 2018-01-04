@@ -1,11 +1,17 @@
 <nav class="grid-x grid-margin-x">
     <div class="medium-4 cell text-center medium-text-left">
-      <p>ABOUT | BLOG</p>
+      <ul>
+        <li><a href="#">ABOUT</a></li>
+        <li><a href="#">BLOG</a></li>
+      </ul>
     </div>
     <div class="medium-4 cell text-center">
       <p>Logo</p>
     </div>
     <div class="medium-4 cell text-center medium-text-right">
-      <p>MY PROFILE | CART</p>
+      <ul>
+        <li><a href="#">MY PROFILE</a></li>
+        <li><a href="">CART</a></li>
+      </ul>
     </div>
 </nav>
