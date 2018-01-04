@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Raleway:300,400,600);@charset "UTF-8";
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,600,700|Poppins:400,600);@charset "UTF-8";
 
 /**
  * Foundation for Sites by ZURB
@@ -564,11 +564,11 @@ html {
 body {
   margin: 0;
   padding: 0;
-  background: #fefefe;
+  background: #F0F0F0;
   font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
   font-weight: normal;
   line-height: 1.5;
-  color: #0a0a0a;
+  color: #444444;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -3780,7 +3780,7 @@ textarea {
   height: 2.4375rem;
   margin: 0 0 1rem;
   padding: 0.5rem;
-  border: #ccd0d2;
+  border: 1px solid #cacaca;
   border-radius: 0;
   background-color: #fefefe;
   -webkit-box-shadow: inset 0 1px 2px rgba(10, 10, 10, 0.1);
@@ -3815,7 +3815,7 @@ textarea {
 [type='color']:focus,
 textarea:focus {
   outline: none;
-  border: #98cbe8;
+  border: 1px solid #8a8a8a;
   background-color: #fefefe;
   -webkit-box-shadow: 0 0 5px #cacaca;
           box-shadow: 0 0 5px #cacaca;
@@ -3914,7 +3914,7 @@ label {
 
 label.middle {
   margin: 0 0 1rem;
-  padding: 0.5rem 0;
+  padding: 0.5625rem 0;
 }
 
 .help-text {
@@ -4042,7 +4042,7 @@ select {
   -webkit-appearance: none;
      -moz-appearance: none;
           appearance: none;
-  border: #ccd0d2;
+  border: 1px solid #cacaca;
   border-radius: 0;
   background-color: #fefefe;
   font-family: inherit;
@@ -4070,7 +4070,7 @@ select {
 
 select:focus {
   outline: none;
-  border: #98cbe8;
+  border: 1px solid #8a8a8a;
   background-color: #fefefe;
   -webkit-box-shadow: 0 0 5px #cacaca;
           box-shadow: 0 0 5px #cacaca;
@@ -4769,7 +4769,7 @@ a.button:focus {
   border: 1px solid #e6e6e6;
   border-bottom: 0;
   background-color: #fefefe;
-  color: #0a0a0a;
+  color: #444444;
 }
 
 :last-child > .accordion-content:last-child {
@@ -5141,7 +5141,7 @@ a.button:focus {
   border: 1px solid rgba(10, 10, 10, 0.25);
   border-radius: 0;
   background-color: white;
-  color: #0a0a0a;
+  color: #444444;
 }
 
 .callout > :first-child {
@@ -5154,27 +5154,27 @@ a.button:focus {
 
 .callout.primary {
   background-color: #d7ecfa;
-  color: #0a0a0a;
+  color: #444444;
 }
 
 .callout.secondary {
   background-color: #eaeaea;
-  color: #0a0a0a;
+  color: #444444;
 }
 
 .callout.success {
   background-color: #e1faea;
-  color: #0a0a0a;
+  color: #444444;
 }
 
 .callout.warning {
   background-color: #fff3d9;
-  color: #0a0a0a;
+  color: #444444;
 }
 
 .callout.alert {
   background-color: #f7e4e1;
-  color: #0a0a0a;
+  color: #444444;
 }
 
 .callout.small {
@@ -5209,7 +5209,7 @@ a.button:focus {
   -webkit-box-shadow: none;
           box-shadow: none;
   overflow: hidden;
-  color: #0a0a0a;
+  color: #444444;
 }
 
 .card > :last-child {
@@ -5767,7 +5767,7 @@ a.button:focus {
   display: none;
   border: 1px solid #cacaca;
   border-radius: 0;
-  background-color: #fefefe;
+  background-color: #F0F0F0;
   font-size: 1rem;
 }
 
@@ -7447,12 +7447,12 @@ caption {
 
 thead {
   background: #f8f8f8;
-  color: #0a0a0a;
+  color: #444444;
 }
 
 tfoot {
   background: #f1f1f1;
-  color: #0a0a0a;
+  color: #444444;
 }
 
 thead tr,
@@ -7615,7 +7615,7 @@ table.hover:not(.unstriped) tr:nth-of-type(even):hover {
   border: 1px solid #e6e6e6;
   border-top: 0;
   background: #fefefe;
-  color: #0a0a0a;
+  color: #444444;
   -webkit-transition: all 0.5s ease;
   transition: all 0.5s ease;
 }
@@ -9010,11 +9010,11 @@ html {
 body {
   margin: 0;
   padding: 0;
-  background: #fefefe;
+  background: #F0F0F0;
   font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
   font-weight: normal;
   line-height: 1.5;
-  color: #0a0a0a;
+  color: #444444;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -12226,7 +12226,7 @@ textarea {
   height: 2.4375rem;
   margin: 0 0 1rem;
   padding: 0.5rem;
-  border: #ccd0d2;
+  border: 1px solid #cacaca;
   border-radius: 0;
   background-color: #fefefe;
   -webkit-box-shadow: inset 0 1px 2px rgba(10, 10, 10, 0.1);
@@ -12261,7 +12261,7 @@ textarea {
 [type='color']:focus,
 textarea:focus {
   outline: none;
-  border: #98cbe8;
+  border: 1px solid #8a8a8a;
   background-color: #fefefe;
   -webkit-box-shadow: 0 0 5px #cacaca;
           box-shadow: 0 0 5px #cacaca;
@@ -12360,7 +12360,7 @@ label {
 
 label.middle {
   margin: 0 0 1rem;
-  padding: 0.5rem 0;
+  padding: 0.5625rem 0;
 }
 
 .help-text {
@@ -12488,7 +12488,7 @@ select {
   -webkit-appearance: none;
      -moz-appearance: none;
           appearance: none;
-  border: #ccd0d2;
+  border: 1px solid #cacaca;
   border-radius: 0;
   background-color: #fefefe;
   font-family: inherit;
@@ -12516,7 +12516,7 @@ select {
 
 select:focus {
   outline: none;
-  border: #98cbe8;
+  border: 1px solid #8a8a8a;
   background-color: #fefefe;
   -webkit-box-shadow: 0 0 5px #cacaca;
           box-shadow: 0 0 5px #cacaca;
@@ -13215,7 +13215,7 @@ a.button:focus {
   border: 1px solid #e6e6e6;
   border-bottom: 0;
   background-color: #fefefe;
-  color: #0a0a0a;
+  color: #444444;
 }
 
 :last-child > .accordion-content:last-child {
@@ -13587,7 +13587,7 @@ a.button:focus {
   border: 1px solid rgba(10, 10, 10, 0.25);
   border-radius: 0;
   background-color: white;
-  color: #0a0a0a;
+  color: #444444;
 }
 
 .callout > :first-child {
@@ -13600,27 +13600,27 @@ a.button:focus {
 
 .callout.primary {
   background-color: #d7ecfa;
-  color: #0a0a0a;
+  color: #444444;
 }
 
 .callout.secondary {
   background-color: #eaeaea;
-  color: #0a0a0a;
+  color: #444444;
 }
 
 .callout.success {
   background-color: #e1faea;
-  color: #0a0a0a;
+  color: #444444;
 }
 
 .callout.warning {
   background-color: #fff3d9;
-  color: #0a0a0a;
+  color: #444444;
 }
 
 .callout.alert {
   background-color: #f7e4e1;
-  color: #0a0a0a;
+  color: #444444;
 }
 
 .callout.small {
@@ -13655,7 +13655,7 @@ a.button:focus {
   -webkit-box-shadow: none;
           box-shadow: none;
   overflow: hidden;
-  color: #0a0a0a;
+  color: #444444;
 }
 
 .card > :last-child {
@@ -14213,7 +14213,7 @@ a.button:focus {
   display: none;
   border: 1px solid #cacaca;
   border-radius: 0;
-  background-color: #fefefe;
+  background-color: #F0F0F0;
   font-size: 1rem;
 }
 
@@ -15893,12 +15893,12 @@ caption {
 
 thead {
   background: #f8f8f8;
-  color: #0a0a0a;
+  color: #444444;
 }
 
 tfoot {
   background: #f1f1f1;
-  color: #0a0a0a;
+  color: #444444;
 }
 
 thead tr,
@@ -16061,7 +16061,7 @@ table.hover:not(.unstriped) tr:nth-of-type(even):hover {
   border: 1px solid #e6e6e6;
   border-top: 0;
   background: #fefefe;
-  color: #0a0a0a;
+  color: #444444;
   -webkit-transition: all 0.5s ease;
   transition: all 0.5s ease;
 }
@@ -16912,14 +16912,21 @@ a.thumbnail image {
 
 body {
   background: #F0F0F0;
+  font-family: "Open Sans", "Segoe UI", Tahoma, sans-serif;
+  font-size: 0.9em;
 }
 
 nav {
-  min-height: 5em;
+  min-height: 6em;
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
   background: #FFFFFF;
+}
+
+nav .logo img {
+  height: 2em;
+  width: auto;
 }
 
 nav ul {
@@ -16933,6 +16940,12 @@ nav li {
 }
 
 nav li a {
-  padding: 0 1em;
+  padding: 0 0.7em;
+  font-weight: 600;
+  color: #444444;
+}
+
+nav li a.cart-button {
+  font-weight: bold;
 }
 

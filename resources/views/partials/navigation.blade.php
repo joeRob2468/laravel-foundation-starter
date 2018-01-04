@@ -6,12 +6,14 @@
       </ul>
     </div>
     <div class="medium-4 cell text-center">
-      <p>Logo</p>
+      <a class="logo" href="#">
+        <img src="/img/logo.png">
+      </a>
     </div>
     <div class="medium-4 cell text-center medium-text-right">
       <ul>
         <li><a href="#">MY PROFILE</a></li>
-        <li><a href="">CART</a></li>
+        <li><a class="cart-button" href="#">CART</a></li>
       </ul>
     </div>
 </nav>

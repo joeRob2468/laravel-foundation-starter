@@ -1,11 +1,18 @@
 body {
   background: #F0F0F0;
+  font-family: $body-font;
+  font-size: 0.9em;
 }
 
 nav {
-  min-height: 5em;
+  min-height: 6em;
   align-items: center;
   background: #FFFFFF;
+
+  .logo img {
+    height: 2em;
+    width: auto;
+  }
 
   ul {
     padding: 0;
@@ -17,7 +24,13 @@ nav {
     list-style-type: none;
 
     a {
-      padding: 0 1em;
+      padding: 0 0.7em;
+      font-weight: 600;
+      color: #444444;
+    }
+
+    a.cart-button {
+      font-weight: bold;
     }
   }
 }
